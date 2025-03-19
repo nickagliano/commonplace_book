@@ -2,6 +2,7 @@
 
 ## High priority
 - [ ] Spell check?
+- [ ] Linting, removing extra at end of file, etc.?
 
 
 ## Medium priority
